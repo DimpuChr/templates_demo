@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: demo
-          image: dimpuchr/spring-demo-devops:latest
+          image: dimpuchr/my-app:latest
           ports:
             - containerPort: 8085
