@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: demo
-          image: dimpuchr/my-app:23-latest
+          image: dimpuchr/my-app:27-latest
           ports:
             - containerPort: 8085
